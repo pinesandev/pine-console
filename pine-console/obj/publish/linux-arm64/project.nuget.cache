@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WpEs+aPl5CM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pined\\DEV files\\Projects\\pine-console\\pine-console\\pine-console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pined\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-arm64\\9.0.0\\microsoft.netcore.app.runtime.linux-arm64.9.0.0.nupkg.sha512",
+    "C:\\Users\\pined\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-arm64\\9.0.0\\microsoft.aspnetcore.app.runtime.linux-arm64.9.0.0.nupkg.sha512",
+    "C:\\Users\\pined\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm64\\9.0.0\\microsoft.netcore.app.host.linux-arm64.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

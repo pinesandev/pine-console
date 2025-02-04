@@ -1,0 +1,15 @@
+C:\Users\pined\DEV files\Projects\pine-console\pine-console\bin\Debug\net9.0\pine-console.exe
+C:\Users\pined\DEV files\Projects\pine-console\pine-console\bin\Debug\net9.0\pine-console.deps.json
+C:\Users\pined\DEV files\Projects\pine-console\pine-console\bin\Debug\net9.0\pine-console.runtimeconfig.json
+C:\Users\pined\DEV files\Projects\pine-console\pine-console\bin\Debug\net9.0\pine-console.dll
+C:\Users\pined\DEV files\Projects\pine-console\pine-console\bin\Debug\net9.0\pine-console.pdb
+C:\Users\pined\DEV files\Projects\pine-console\pine-console\obj\Debug\net9.0\pine-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pined\DEV files\Projects\pine-console\pine-console\obj\Debug\net9.0\pine-console.AssemblyInfoInputs.cache
+C:\Users\pined\DEV files\Projects\pine-console\pine-console\obj\Debug\net9.0\pine-console.AssemblyInfo.cs
+C:\Users\pined\DEV files\Projects\pine-console\pine-console\obj\Debug\net9.0\pine-console.csproj.CoreCompileInputs.cache
+C:\Users\pined\DEV files\Projects\pine-console\pine-console\obj\Debug\net9.0\pine-console.sourcelink.json
+C:\Users\pined\DEV files\Projects\pine-console\pine-console\obj\Debug\net9.0\pine-console.dll
+C:\Users\pined\DEV files\Projects\pine-console\pine-console\obj\Debug\net9.0\refint\pine-console.dll
+C:\Users\pined\DEV files\Projects\pine-console\pine-console\obj\Debug\net9.0\pine-console.pdb
+C:\Users\pined\DEV files\Projects\pine-console\pine-console\obj\Debug\net9.0\pine-console.genruntimeconfig.cache
+C:\Users\pined\DEV files\Projects\pine-console\pine-console\obj\Debug\net9.0\ref\pine-console.dll
